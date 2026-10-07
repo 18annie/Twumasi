@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" aria-labelledby="logoTitle" role="img">
+  <title id="logoTitle">Peter Oduro Twumasi Senior — Welder</title>
+  <!-- Outer ring: navy -->
+  <circle cx="50" cy="50" r="46" fill="#0B1F3A" stroke="#1E5AA8" stroke-width="4"/>
+  <!-- Inner ring: lighter blue -->
+  <circle cx="50" cy="50" r="36" fill="none" stroke="#1E5AA8" stroke-width="2"/>
+  <!-- Welding spark / arc shape -->
+  <path d="M50 30 L58 46 L50 50 L42 46 Z" fill="#1E5AA8" opacity=".8"/>
+  <!-- Spark particles -->
+  <circle cx="50" cy="30" r="2.5" fill="#fff"/>
+  <circle cx="54" cy="34" r="1.5" fill="#fff"/>
+  <circle cx="46" cy="34" r="1.5" fill="#fff"/>
+  <!-- Flames around arc -->
+  <path d="M42 48 C40 46, 40 50, 42 50 C44 52, 44 50, 42 48 Z" fill="#1E5AA8" opacity=".6"/>
+  <path d="M58 48 C56 46, 56 50, 58 50 C60 52, 60 50, 58 48 Z" fill="#1E5AA8" opacity=".6"/>
+  <!-- "POT" monogram -->
+  <text x="50" y="72" text-anchor="middle" font-family="Barlow Condensed, Arial, sans-serif" font-weight="700" font-size="24" fill="#fff" letter-spacing=".05em">POT</text>
+</svg>
